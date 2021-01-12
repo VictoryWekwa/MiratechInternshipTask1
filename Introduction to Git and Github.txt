@@ -1,0 +1,4 @@
+Some Git Commands:
+git add . : Used to add your files to the repository
+git commit -m 'commit message' : To save your changes on your machine
+git push : To save your changes to the reposiory on the web not only on your machine but also in the cloud
